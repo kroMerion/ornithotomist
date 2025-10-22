@@ -1,0 +1,25 @@
+{
+    "name": "Billy Brown",
+    "age": 57,
+    "address": {
+        "street": "Scott Avenue",
+        "city": "North Jessica",
+        "state": "New York",
+        "zip": "22532"
+    },
+    "contact": {
+        "phone": "(201)760-0006x30436",
+        "servicePhone": "800726888"
+    },
+    "birthday": "1968-19-05",
+    "ip": "173.22.41.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly whole no less general reduce kid air. Military forget medical book toward enter check fish. Religious in add laugh.\nHit eight go father wife listen case. Country program without.",
+        "bio": "Child eye huge argue career. Better care wide behind bed.\nAccept begin film child. Rock sell executive price interesting."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
