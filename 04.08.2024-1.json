@@ -1,0 +1,25 @@
+{
+    "name": "Albert Summers",
+    "age": 89,
+    "address": {
+        "street": "Gonzalez Estate",
+        "city": "Kristiburgh",
+        "state": "Minnesota",
+        "zip": "57740"
+    },
+    "contact": {
+        "phone": "(666)673-1500x7063",
+        "servicePhone": "800646313"
+    },
+    "birthday": "1936-06-03",
+    "ip": "171.7.92.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Enjoy animal century behavior general shoulder. Black young always.",
+        "bio": "Appear describe specific most. Try hope control family.\nAvailable factor energy from. Next care up. Find respond follow allow course too. Only someone week responsibility."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
