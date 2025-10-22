@@ -1,0 +1,25 @@
+{
+    "name": "Lori Green",
+    "age": 20,
+    "address": {
+        "street": "Bryan Park",
+        "city": "Flowersstad",
+        "state": "Ohio",
+        "zip": "86593"
+    },
+    "contact": {
+        "phone": "261.960.2044",
+        "servicePhone": "800098827"
+    },
+    "birthday": "2005-09-12",
+    "ip": "73.169.36.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Speak federal toward compare. Involve meeting have which detail performance country staff.\nMight high chair after off whom. Everyone good lose data leg.",
+        "bio": "Than trouble sing its I task. Theory parent window project. Your employee college weight suggest no character up."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
