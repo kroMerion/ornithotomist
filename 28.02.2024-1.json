@@ -1,0 +1,25 @@
+{
+    "name": "Franklin Bass",
+    "age": 10,
+    "address": {
+        "street": "Allen Forest",
+        "city": "North Collinhaven",
+        "state": "Nebraska",
+        "zip": "58996"
+    },
+    "contact": {
+        "phone": "(634)753-1668",
+        "servicePhone": "800126722"
+    },
+    "birthday": "2015-04-03",
+    "ip": "160.115.166.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Choice theory director show share edge write. While these management your store not old.",
+        "bio": "Senior movie general oil movement head program. Nor avoid better song computer trade forward.\nIncrease man also most long room. Sing key dinner treatment along nor continue. Per good meeting soon."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
