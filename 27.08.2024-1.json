@@ -1,0 +1,25 @@
+{
+    "name": "Adam Norris",
+    "age": 39,
+    "address": {
+        "street": "Rebecca Lock",
+        "city": "Melissaburgh",
+        "state": "Georgia",
+        "zip": "15407"
+    },
+    "contact": {
+        "phone": "827.558.8903",
+        "servicePhone": "800334925"
+    },
+    "birthday": "1986-26-01",
+    "ip": "126.126.147.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Health protect better space take add. Cost toward despite base program.\nPart writer son learn. Cover good guess hit.\nHappen beyond military. Want real professional need media moment teach.",
+        "bio": "Allow international several rule business thus. Contain throw would visit heart. Sort most blue hit.\nCatch board consumer wall once. Mind tough place born."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
