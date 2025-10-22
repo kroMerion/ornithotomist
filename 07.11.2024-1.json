@@ -1,0 +1,25 @@
+{
+    "name": "John Gomez",
+    "age": 1,
+    "address": {
+        "street": "Darren Inlet",
+        "city": "Port Andrea",
+        "state": "Washington",
+        "zip": "92190"
+    },
+    "contact": {
+        "phone": "571.934.1210x6005",
+        "servicePhone": "800745940"
+    },
+    "birthday": "2024-09-02",
+    "ip": "97.44.166.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical result end consumer address. None agree enjoy list newspaper. Move several whole choose.\nWhere mission audience I beautiful then southern soldier. Morning site wait choice.",
+        "bio": "Sell our book suddenly seek now. Actually yourself direction far write feeling.\nFor turn out two he. Team meet natural point south just."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
