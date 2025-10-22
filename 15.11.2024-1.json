@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Williams",
+    "age": 15,
+    "address": {
+        "street": "Smith Camp",
+        "city": "New Donnaville",
+        "state": "Oklahoma",
+        "zip": "36465"
+    },
+    "contact": {
+        "phone": "+1-312-849-1784x423",
+        "servicePhone": "800561034"
+    },
+    "birthday": "2010-14-08",
+    "ip": "59.195.197.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Get necessary trial occur western career. Win program us while. Figure try husband purpose fish news. Candidate memory recognize size enter.",
+        "bio": "Investment beat head she quickly morning analysis.\nField building maybe. Between whether couple agree seven.\nWhom bag operation west let join without cause. Perform teach yes right."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
