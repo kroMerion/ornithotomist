@@ -1,0 +1,25 @@
+{
+    "name": "Rodney Mills",
+    "age": 95,
+    "address": {
+        "street": "Robert Track",
+        "city": "Jacquelineville",
+        "state": "Maryland",
+        "zip": "12848"
+    },
+    "contact": {
+        "phone": "721.989.2487x549",
+        "servicePhone": "800940062"
+    },
+    "birthday": "1930-05-02",
+    "ip": "186.232.62.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend identify hard discussion white public so. Enjoy he ten often beautiful billion threat. Score fund benefit former those represent cover receive.",
+        "bio": "Management here clear talk think red against. New it assume ability decade.\nCareer wonder man cut indeed floor race anyone."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
