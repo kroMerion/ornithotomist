@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hicks",
+    "age": 49,
+    "address": {
+        "street": "Fuller Spurs",
+        "city": "Port Travis",
+        "state": "Wisconsin",
+        "zip": "72726"
+    },
+    "contact": {
+        "phone": "896-363-9411x9706",
+        "servicePhone": "800093005"
+    },
+    "birthday": "1976-04-01",
+    "ip": "215.116.12.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Against center scientist here. Open prove board among present successful. Choose maintain follow among painting find.",
+        "bio": "Next agreement stay that serious upon. Might last exist family show marriage time ever. Imagine dinner art."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
